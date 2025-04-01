@@ -1,4 +1,4 @@
-## Hi, I'm Myriam! <br/><a href="https://www.linkedin.com/in/myriam-gonidec-chin-26a0464/">IT Program Manager (PMP Certified) | Transitioning to Data & Business Analyst for Marketing, Sales, Supply & Finance </a>
+## Hi👋, I'm Myriam! <br/><a href="https://www.linkedin.com/in/myriam-gonidec-chin-26a0464/">IT Program Manager (PMP Certified) | Transitioning to Data & Business Analyst for Marketing, Sales, Supply & Finance </a>
 
 ## 😄 About me
 With extensive experience managing multicultural teams, I am seeking new challenges in Chicago (US) in Data analysis and AI solutions. Currently completing my Data Analyst certification with OpenClassrooms (May 2025), I am focused on building hands-on expertise to become an effective leader in data-driven initiatives
@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- ✨ 📉✍💻🥇💼📚
+- ✨ 📉✍💻🥇💼📚🚀🔑📊🎯 
 -->
