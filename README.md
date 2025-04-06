@@ -7,9 +7,9 @@
 ## 👨‍💻 Data Projects  
 - [GoFast Deliveries Dashboard in PowerBI: Brigding Finance, Sales & Operations - From numbers to actions](https://github.com/myriam-gonidec/GoFastDeliveries)  
 - [Fake or Fortune? Detecting Counterfeit Bills with Machine Learning in Python](https://github.com/myriam-gonidec/CounterfeitBills)  
-- [Gender Equality at Work: Unlocking ESG Insights with No-Code Tool like KNIME](https://github.com/myriam-gonidec/GenderEquality)  
-
-WORK IN PROGRESS To be completed with PowerBI (or Tableau) view of all 10 data projects
+- [Gender Equality at Work: Unlocking ESG Insights with No-Code Tool like KNIME](https://github.com/myriam-gonidec/GenderEquality)
+  
+![image](https://github.com/user-attachments/assets/2d0465ba-4d3c-4fc9-a63f-c65465f2da27)
 
 ## ✨ Services & Expertises
 - PowerBI/PowerQuery/DAX: Create dynamic and interactive dashboards (including impactful data insights summary and suggestion of action plan)
