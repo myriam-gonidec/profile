@@ -7,6 +7,7 @@
 - [GoFast Deliveries Dashboard in PowerBI: Brigding Finance, Sales & Operations - From numbers to actions](https://github.com/myriam-gonidec/GoFastDeliveries)  
 - [Fake or Fortune? Detecting Counterfeit Bills with Machine Learning in Python](https://github.com/myriam-gonidec/CounterfeitBills)  
 - [Gender Equality at Work: Unlocking ESG Insights with No-Code Tool like KNIME](https://github.com/myriam-gonidec/GenderEquality)
+- [A reflective and interactive portfolio](https://github.com/myriam-gonidec/ReflectivePortfolio) 
 ![image](https://github.com/user-attachments/assets/0e33a431-21ec-4307-9adc-c4b0e0a9ef46)
 
 ## ✨ Services & Expertises
