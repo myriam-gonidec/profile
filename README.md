@@ -1,4 +1,6 @@
+![image](https://github.com/user-attachments/assets/0eec9978-e37d-4633-b416-f11855bd5ea1)
 ## Hi👋, I'm Myriam! <br/><a href="https://www.linkedin.com/in/myriam-gonidec-chin-26a0464/">IT Program Manager (PMP Certified) | Transitioning to Data & Business Analyst for Marketing, Sales, Supply & Finance </a>
+
 
 ## 😄 About me
 ![image](https://github.com/user-attachments/assets/d2f90c5d-0100-4bd6-b95a-34ba696f984f)
