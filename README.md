@@ -1,17 +1,13 @@
 ![image](https://github.com/user-attachments/assets/0eec9978-e37d-4633-b416-f11855bd5ea1)
 ## Hi👋, I'm Myriam! <br/><a href="https://www.linkedin.com/in/myriam-gonidec-chin-26a0464/">IT Program Manager (PMP Certified) | Transitioning to Data & Business Analyst for Marketing, Sales, Supply & Finance </a>
 
-
-## 😄 About me
-![image](https://github.com/user-attachments/assets/d2f90c5d-0100-4bd6-b95a-34ba696f984f)
-
+![image](https://github.com/user-attachments/assets/faa599e1-3fc1-4233-a961-f5942dbaebff)
 
 ## 👨‍💻 Data Projects  
 - [GoFast Deliveries Dashboard in PowerBI: Brigding Finance, Sales & Operations - From numbers to actions](https://github.com/myriam-gonidec/GoFastDeliveries)  
 - [Fake or Fortune? Detecting Counterfeit Bills with Machine Learning in Python](https://github.com/myriam-gonidec/CounterfeitBills)  
 - [Gender Equality at Work: Unlocking ESG Insights with No-Code Tool like KNIME](https://github.com/myriam-gonidec/GenderEquality)
-  
-![image](https://github.com/user-attachments/assets/2d0465ba-4d3c-4fc9-a63f-c65465f2da27)
+![image](https://github.com/user-attachments/assets/0e33a431-21ec-4307-9adc-c4b0e0a9ef46)
 
 ## ✨ Services & Expertises
 - PowerBI/PowerQuery/DAX: Create dynamic and interactive dashboards (including impactful data insights summary and suggestion of action plan)
