@@ -8,7 +8,9 @@
 - [Fake or Fortune? Detecting Counterfeit Bills with Machine Learning in Python](https://github.com/myriam-gonidec/CounterfeitBills)  
 - [Gender Equality at Work: Unlocking ESG Insights with No-Code Tool like KNIME](https://github.com/myriam-gonidec/GenderEquality)
 - [A reflective and interactive portfolio](https://github.com/myriam-gonidec/ReflectivePortfolio) 
-![image](https://github.com/user-attachments/assets/0e33a431-21ec-4307-9adc-c4b0e0a9ef46)
+
+![image](https://github.com/user-attachments/assets/33c268fd-6ec1-45ab-8425-4abf83d664f3)
+
 
 ## ✨ Services & Expertises
 - PowerBI/PowerQuery/DAX: Create dynamic and interactive dashboards (including impactful data insights summary and suggestion of action plan)
