@@ -1,7 +1,6 @@
 ![image](https://github.com/user-attachments/assets/0eec9978-e37d-4633-b416-f11855bd5ea1)
 ## Hi👋, I'm Myriam! <br/><a href="https://www.linkedin.com/in/myriam-gonidec-chin-26a0464/">IT Program Manager (PMP Certified) | Transitioning to Data & Business Analyst for Marketing, Sales, Supply & Finance </a>
-
-![image](https://github.com/user-attachments/assets/faa599e1-3fc1-4233-a961-f5942dbaebff)
+![image](https://github.com/user-attachments/assets/be78d040-b0b3-4fd9-ba0e-89e9f18c422e)
 
 ## 👨‍💻 Data Projects  
 - [GoFast Deliveries Dashboard in PowerBI: Bridging Finance, Sales & Operations - From numbers to actions](https://github.com/myriam-gonidec/GoFastDeliveries)  
@@ -9,7 +8,8 @@
 - [Gender Equality at Work: Unlocking ESG Insights with No-Code Tool like KNIME](https://github.com/myriam-gonidec/GenderEquality)
 - [A reflective and interactive portfolio](https://github.com/myriam-gonidec/ReflectivePortfolio) 
 
-![image](https://github.com/user-attachments/assets/33c268fd-6ec1-45ab-8425-4abf83d664f3)
+![image](https://github.com/user-attachments/assets/e9837cb4-d3ba-428b-ad3f-8073f2f6efb1)
+
 
 
 ## ✨ Services & Expertises
