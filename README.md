@@ -1,14 +1,16 @@
 ![image](https://github.com/user-attachments/assets/0eec9978-e37d-4633-b416-f11855bd5ea1)
 ## Hi👋, I'm Myriam! <br/><a href="https://www.linkedin.com/in/myriam-gonidec-chin-26a0464/">IT Program Manager (PMP Certified) | Transitioning to Data & Business Analyst for Marketing, Sales, Supply & Finance </a>
-![image](https://github.com/user-attachments/assets/be78d040-b0b3-4fd9-ba0e-89e9f18c422e)
+![image](https://github.com/user-attachments/assets/b371f22d-f301-4cf6-89da-e89b182e049d)
+
 
 ## 👨‍💻 Data Projects  
 - [GoFast Deliveries Dashboard in PowerBI: Bridging Finance, Sales & Operations - From numbers to actions](https://github.com/myriam-gonidec/GoFastDeliveries)  
 - [Fake or Fortune? Detecting Counterfeit Bills with Machine Learning in Python](https://github.com/myriam-gonidec/CounterfeitBills)  
 - [Gender Equality at Work: Unlocking ESG Insights with No-Code Tool like KNIME](https://github.com/myriam-gonidec/GenderEquality)
-- [A reflective and interactive portfolio](https://github.com/myriam-gonidec/ReflectivePortfolio) 
+- [Job search: A reflective and interactive portfolio](https://github.com/myriam-gonidec/ReflectivePortfolio) 
 
-![image](https://github.com/user-attachments/assets/e9837cb4-d3ba-428b-ad3f-8073f2f6efb1)
+![image](https://github.com/user-attachments/assets/6296f5e1-2bf5-405e-9b84-6796f37b5dd8)
+
 
 
 
