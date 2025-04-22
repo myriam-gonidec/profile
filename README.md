@@ -1,9 +1,5 @@
 ![image](https://github.com/user-attachments/assets/0eec9978-e37d-4633-b416-f11855bd5ea1)
 ## Hi👋, I'm Myriam! <br/><a href="https://www.linkedin.com/in/myriam-gonidec-chin-26a0464/">IT Program Manager (PMP Certified) | Transitioning to Data & Business Analyst for Marketing, Sales, Supply & Finance </a>
-
-<iframe title="P13_myInteractiveProfile_20250421" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMDAyODVkNDgtNjZlYS00ODNlLTljYTMtMmExNzQwMjcwMjg0IiwidCI6ImNkZDhlZjE5LTYxZDUtNDRlNy1iZjYxLTZmMDNmMTg5YjM5ZCJ9" frameborder="0" allowFullScreen="true"></iframe>
-
-
 ![image](https://github.com/user-attachments/assets/b371f22d-f301-4cf6-89da-e89b182e049d)
 
 
