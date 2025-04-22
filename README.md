@@ -21,14 +21,6 @@
 - Knime: Create data pipeline with no-code tool
 - Project management and workshop animations: Re-use of past 12 years of project management experience (both waterfall and agile) for data product definition and planification. PMP Certified since 2018.
 
-## 🌱 Continuous learning
-### My main areas of improvment are: 
-1. Keep getting more business awareness so that to be able to look at things from any business owner point of view, and to understand their main concerns
-2. Learning about new data analysis tools, methods and pratices
-### Using Feedly as information curation
-![image](https://github.com/user-attachments/assets/d5665aaf-9beb-4ec9-baf5-79e06dbdc764)
-### And Wakelet to capitalize on knowledge to reuse and share.
-![image](https://github.com/user-attachments/assets/b1425eff-b0f3-4ff7-903d-164792a5e449)
 
 <!--
 Here are some ideas to get you started:
