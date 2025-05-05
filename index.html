@@ -26,13 +26,15 @@
       text-decoration: underline;
     }
 
-    .profile-img, .section-img {
-      width: 100%;
-      max-width: 400px;
-      height: auto;
-      border-radius: 10px;
-      margin-bottom: 20px;
-    }
+.profile-img {
+  width: 100vw; /* Full viewport width */
+  max-width: 100%; /* Prevent overflow */
+  height: auto;
+  border-radius: 0; /* Remove rounding if you want edge-to-edge */
+  display: block;
+  margin: 0 auto 20px auto; /* Centering with margin-bottom */
+}
+
 
     ul, ol {
       padding-left: 20px;
