@@ -12,39 +12,76 @@
       background-color: #f9f9f9;
       color: #333;
     }
+
     h1, h2, h3 {
       color: #2c3e50;
     }
+
     a {
       color: #007acc;
       text-decoration: none;
     }
+
     a:hover {
       text-decoration: underline;
     }
-   .profile-img, .section-img {
+
+    .profile-img, .section-img {
       width: 100%;
-      max-width: 400px; /* Set a reasonable max size for larger screens */
+      max-width: 400px;
       height: auto;
       border-radius: 10px;
       margin-bottom: 20px;
     }
+
+    ul, ol {
+      padding-left: 20px;
+    }
+
     ul {
-  list-style: disc;
-  padding-left: 20px;
-}
+      list-style: disc;
+    }
+
     .report-container {
       margin-top: 30px;
-    }
-    iframe {
+      position: relative;
       width: 100%;
-      height: 600px;
-      border: none;
+      padding-bottom: 62.25%; /* maintains 600x373.5 aspect ratio */
+      height: 0;
+      overflow: hidden;
       border-radius: 10px;
       box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      margin-bottom: 30px;
     }
-    ol {
-      padding-left: 20px;
+
+    .report-container iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: none;
+      border-radius: 10px;
+    }
+
+    /* Mobile responsiveness */
+    @media (max-width: 600px) {
+      body {
+        margin: 20px;
+        font-size: 1rem;
+      }
+
+      h1 {
+        font-size: 1.5rem;
+      }
+
+      h2 {
+        font-size: 1.25rem;
+      }
+
+      .profile-img {
+        max-width: 100%;
+      }
     }
   </style>
 </head>
@@ -54,7 +91,6 @@
   <img class="profile-img" src="https://github.com/user-attachments/assets/5898cc5c-7b36-4168-8980-14ea9d696b9e" alt="Profile image">
 </div>
 
-
 <h2>Hi👋, I'm Myriam!</h2>
 <p>
   <a href="https://www.linkedin.com/in/myriam-gonidec-chin-26a0464/" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">
@@ -63,48 +99,32 @@
   </a>
 </p>
 
-  <div class="report-container">
-    <h2>📈 Live Power BI profile & portfolio </h2>
-    <iframe title="myInteractiveProfile_20250423" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZDhiNjRjZmMtMmUzYy00YjVhLWJlMTQtMzgzMWEyOGY1NTljIiwidCI6ImNkZDhlZjE5LTYxZDUtNDRlNy1iZjYxLTZmMDNmMTg5YjM5ZCJ9" frameborder="0" allowFullScreen="true"></iframe>
-  </div>
+<div class="report-container">
+  <h2>📈 Live Power BI profile & portfolio</h2>
+  <iframe title="myInteractiveProfile_20250423" src="https://app.powerbi.com/view?r=eyJrIjoiZDhiNjRjZmMtMmUzYy00YjVhLWJlMTQtMzgzMWEyOGY1NTljIiwidCI6ImNkZDhlZjE5LTYxZDUtNDRlNy1iZjYxLTZmMDNmMTg5YjM5ZCJ9" allowfullscreen></iframe>
+</div>
 
-  <div class="report-container">
-  <h2> ✍ OpenClassrooms P13 - Aeroworld proposal </h2>
-   <iframe title="P13_myInteractiveProfile_20250421" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMmMxYjYyNjAtMjY3OS00YWZlLWIzN2EtNDc0NDdhMGUxNGJiIiwidCI6ImNkZDhlZjE5LTYxZDUtNDRlNy1iZjYxLTZmMDNmMTg5YjM5ZCJ9" frameborder="0" allowFullScreen="true"></iframe>
-  </div>
+<div class="report-container">
+  <h2>✍ OpenClassrooms P13 - Aeroworld proposal</h2>
+  <iframe title="P13_myInteractiveProfile_20250421" src="https://app.powerbi.com/view?r=eyJrIjoiMmMxYjYyNjAtMjY3OS00YWZlLWIzN2EtNDc0NDdhMGUxNGJiIiwidCI6ImNkZDhlZjE5LTYxZDUtNDRlNy1iZjYxLTZmMDNmMTg5YjM5ZCJ9" allowfullscreen></iframe>
+</div>
 
-  <h2>👨‍💻 Data Projects</h2>
-  <ul>
-    <li>
-      <a href="https://github.com/myriam-gonidec/GoFastDeliveries" target="_blank">
-        GoFast Deliveries Dashboard in PowerBI: Bridging Finance, Sales & Operations - From numbers to actions
-      </a>
-    </li>
-    <li>
-      <a href="https://github.com/myriam-gonidec/CounterfeitBills" target="_blank">
-        Fake or Fortune? Detecting Counterfeit Bills with Machine Learning in Python
-      </a>
-    </li>
-    <li>
-      <a href="https://github.com/myriam-gonidec/GenderEquality" target="_blank">
-        Gender Equality at Work: Unlocking ESG Insights with No-Code Tool like KNIME
-      </a>
-    </li>
-    <li>
-      <a href="https://github.com/myriam-gonidec/ReflectivePortfolio" target="_blank">
-        Job search: A reflective and interactive portfolio
-      </a>
-    </li>
-  </ul>
+<h2>👨‍💻 Data Projects</h2>
+<ul>
+  <li><a href="https://github.com/myriam-gonidec/GoFastDeliveries" target="_blank">GoFast Deliveries Dashboard in PowerBI: Bridging Finance, Sales & Operations - From numbers to actions</a></li>
+  <li><a href="https://github.com/myriam-gonidec/CounterfeitBills" target="_blank">Fake or Fortune? Detecting Counterfeit Bills with Machine Learning in Python</a></li>
+  <li><a href="https://github.com/myriam-gonidec/GenderEquality" target="_blank">Gender Equality at Work: Unlocking ESG Insights with No-Code Tool like KNIME</a></li>
+  <li><a href="https://github.com/myriam-gonidec/ReflectivePortfolio" target="_blank">Job search: A reflective and interactive portfolio</a></li>
+</ul>
 
-  <h2>✨ Services & Expertises</h2>
-  <ul>
-    <li><strong>PowerBI/PowerQuery/DAX:</strong> Create dynamic and interactive dashboards (including impactful data insights summary and suggestion of action plan)</li>
-    <li><strong>Python:</strong> Run advanced data analysis thanks to statistical tests and machine learning algorithms</li>
-    <li><strong>Visio:</strong> Define & analyze detailed business processes and workflows (including mapping data events)</li>
-    <li><strong>Knime:</strong> Create data pipeline with no-code tool</li>
-    <li><strong>Project management and workshop animations:</strong> Re-use of past 12 years of project management experience (both waterfall and agile) for data product definition and planification. PMP Certified since 2018.</li>
-  </ul>
+<h2>✨ Services & Expertises</h2>
+<ul>
+  <li><strong>PowerBI/PowerQuery/DAX:</strong> Create dynamic and interactive dashboards (including impactful data insights summary and suggestion of action plan)</li>
+  <li><strong>Python:</strong> Run advanced data analysis thanks to statistical tests and machine learning algorithms</li>
+  <li><strong>Visio:</strong> Define & analyze detailed business processes and workflows (including mapping data events)</li>
+  <li><strong>Knime:</strong> Create data pipeline with no-code tool</li>
+  <li><strong>Project management and workshop animations:</strong> Re-use of past 12 years of project management experience (both waterfall and agile) for data product definition and planification. PMP Certified since 2018.</li>
+</ul>
 
 </body>
 </html>
