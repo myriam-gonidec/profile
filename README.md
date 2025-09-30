@@ -8,8 +8,8 @@ https://myriam-gonidec.github.io/profile/
 
 ## 👨‍💻 Data Projects  
 - [GoRetail Dashboard in PowerBI: Analyzing Pareto Principle (80/20 Rule) for Sales Revenues](https://myriam-gonidec.github.io/GoRetail/)
-- [Fake or Fortune? Detecting Counterfeit Bills with Machine Learning in Python](https://github.com/myriam-gonidec/CounterfeitBills)
 - [GoFastDeliveries Dashboard in PowerBI: Bridging Finance, Sales & Operations - From numbers to actions](https://github.com/myriam-gonidec/GoFastDeliveries)  
+- [Fake or Fortune? Detecting Counterfeit Bills with Machine Learning in Python](https://github.com/myriam-gonidec/CounterfeitBills)
 - [Gender Equality at Work: Unlocking ESG Insights with No-Code Tool like KNIME](https://github.com/myriam-gonidec/GenderEquality)
 
 
