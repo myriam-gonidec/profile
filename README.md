@@ -4,6 +4,7 @@ https://myriam-gonidec.github.io/profile/
 
 ## Hi👋, I'm Myriam! <br/><a href="https://www.linkedin.com/in/myriam-gonidec-chin-26a0464/">IT, Digital & Data Program Manager (PMP Certified) | System-thinker and Value Creator for Marketing, Sales, Supply & Finance </a>
 ![image](https://github.com/user-attachments/assets/18423ce0-72fa-4018-acd0-2507d8504519)
+![image](https://github.com/user-attachments/assets/3e0327b4-9ea8-449c-9efa-aed1ed2b8dc3)
 
 ## 👨‍💻 Data Projects  
 - [GoRetail Dashboard in PowerBI: Analyzing Pareto Principle (80/20 Rule) for Sales Revenues](https://myriam-gonidec.github.io/GoRetail/)
@@ -11,7 +12,7 @@ https://myriam-gonidec.github.io/profile/
 - [GoFastDeliveries Dashboard in PowerBI: Bridging Finance, Sales & Operations - From numbers to actions](https://github.com/myriam-gonidec/GoFastDeliveries)  
 - [Gender Equality at Work: Unlocking ESG Insights with No-Code Tool like KNIME](https://github.com/myriam-gonidec/GenderEquality)
 
-![image](https://github.com/user-attachments/assets/3e0327b4-9ea8-449c-9efa-aed1ed2b8dc3)
+
 
 ## ✨ Services & Expertises
 - PowerBI/PowerQuery/DAX: Create dynamic and interactive dashboards (including impactful data insights summary and suggestion of action plan)
