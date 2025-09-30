@@ -1,4 +1,4 @@
-![Black   White Modern Minimalist Data Analyst LinkedIn Banner](https://github.com/user-attachments/assets/c28907a9-2353-416f-b137-5f578dc6452c)
+![Black   White Modern Minimalist Data Analyst LinkedIn Banner](https://github.com/user-attachments/assets/f3202aeb-6a5d-4dea-9158-a63bb705ff0d")
 https://myriam-gonidec.github.io/profile/
 
 ## Hi👋, I'm Myriam! <br/><a href="https://www.linkedin.com/in/myriam-gonidec-chin-26a0464/">IT, Digital & Data Program Manager (PMP Certified) | System-thinker and Value Creator for Marketing, Sales, Supply & Finance </a>
